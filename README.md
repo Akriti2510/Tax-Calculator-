@@ -3,6 +3,8 @@
 2. "style.css" : Contains the styling code for the website.
 3. "practice.js" : Contains the main functionality of various elements used.
 
+![Link to the hosted Web App.](https://taxcalculator-byakritigupta.netlify.app/)
+
 Assumptions made:
 1. The final result displayed is:
      Final Income after tax reduction.
